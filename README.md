@@ -12,36 +12,33 @@ This is a Node.js-based web application that allows users to log in and access a
 
 ## Setup Instructions
 
-1. **Clone the repository**
+# 1. Clone the repository
 
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 ````
 
-2. **Install dependencies**
-
-   ```bash
+# 2. **Install dependencies**
+```
    npm install
    ```
-
-3. **Start MongoDB**
+# 3. **Start MongoDB**
 
    Make sure MongoDB is running on your machine. Default connection is set to:
 
-   ```
-   mongodb://localhost:27017/myapp
-   ```
+   ``` mongodb://localhost:27017/myapp```
 
-4. **Run the app**
+# 4. **Run the app**
 
-   ```bash
+   ``` bash
    node app.js
-   ```
+```
 
-5. **Open in browser**
+# 5. **Open in browser**
 
-   Visit: [http://localhost:3000](http://localhost:3000)
+   Visit:  [http://localhost:3000](http://localhost:3000)
+   
 
 ## Folder Structure
 
